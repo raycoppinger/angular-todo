@@ -1,0 +1,22 @@
+{
+  "name": "angular-test",
+  "version": "1.0.0",
+  "description": "First AngularJS",
+  "main": "Do not know",
+  "scripts": {
+    "test": "testray"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raycoppinger/angular-todo.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "ray coppinger",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/raycoppinger/angular-todo/issues"
+  },
+  "homepage": "https://github.com/raycoppinger/angular-todo#readme"
+}
